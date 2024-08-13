@@ -21,29 +21,82 @@ To advance cybersecurity by developing and sharing tools that enhance threat det
 | End user Security awarness                  | Enat Bank|
 | Vulnerability Assesment                   | Enat Bank|
 
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+### Network Security
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Snort-DC143C?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
 
-### Endpoint
+### Endpoint Security
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+ <img src="https://img.shields.io/badge/-Kaspersky-1A2A23?&style=for-the-badge&logo=kaspersky&logoColor=white" />
+    </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AlienVault_SIEM-00A3E0?&style=for-the-badge&logo=alienvault&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Vulnerability Management
+<div>
+    <img src="https://img.shields.io/badge/-Nessus-3C5A99?&style=for-the-badge&logo=tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenVAS-00B0A8?&style=for-the-badge&logo=openvas&logoColor=white" />
+
+</div>
+
+### Penetration Testing
+<div>
+<img src="https://img.shields.io/badge/-Metasploit_Framework-005571?&style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kali_Linux-557CFF?&style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Burp_Suite-6D4C6C?&style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/-OWASP_ZAP-6D4C6C?&style=for-the-badge&logo=owasp&logoColor=white" />
+</div>
+
+### Threat Intelligence
+<div>
+<img src="https://img.shields.io/badge/-MISSP-2D9F7D?&style=for-the-badge&logo=misps&logoColor=white" />
+<img src="https://img.shields.io/badge/-VirusTotal-FF5C5C?&style=for-the-badge&logo=virustotal&logoColor=white" />
+</div>
+
+###  Incident Response
+<div>
+<img src="https://img.shields.io/badge/-TheHive-5C6BC0?&style=for-the-badge&logo=thehive&logoColor=white" />
+</div>
+
+###  Web Application Security
+<div>
+<img src="https://img.shields.io/badge/-Web_Application_Security-FF5722?&style=for-the-badge&logo=security&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp_Suite-6D4C6C?&style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/-Acunetix-0099FF?&style=for-the-badge&logo=acunetix&logoColor=white" />
+
+</div>
+
+###  Web Application Security
+<div>
+   <img src="https://img.shields.io/badge/-Autopsy-4B9CD3?&style=for-the-badge&logo=autopsy&logoColor=white" />
+
+</div>
+
+###  Sandbox
+<div>
+  <img src="https://img.shields.io/badge/-Any.Run-6D4C6C?&style=for-the-badge&logo=anyrun&logoColor=white" />
+
+</div>
+
+###  WAF
+<div>
+ <img src="https://img.shields.io/badge/-Imperva-0F6E4D?&style=for-the-badge&logo=imperva&logoColor=white" />
+
+</div>
+
+###  NGFW
+<div>
+<img src="https://img.shields.io/badge/-Check_Point-0096D6?&style=for-the-badge&logo=check-point&logoColor=white" />
+generate <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> for  checkpoint
 </div>
 
 ## Certifications
