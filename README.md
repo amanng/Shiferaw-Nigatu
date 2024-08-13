@@ -12,7 +12,6 @@ To advance cybersecurity by developing and sharing tools that enhance threat det
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Enat Bank|
 | Network Traffic Monitoring and Attack Detection | Enat Bank |
 | Next Generation Firewall Monitoring         | Enat Bank|
 | Incident Response Planning and Execution      | Enat Bank|
@@ -20,7 +19,7 @@ To advance cybersecurity by developing and sharing tools that enhance threat det
 | Endpoint threat detection and Monitoring       | Enat Bank|
 | End user Security awarness                  | Enat Bank|
 | Vulnerability Assesment                   | Enat Bank|
-
+| SIEM Implementation and Log Analysis          | Detection Lab|
 ## Tools
 
 ### Network Security
@@ -96,19 +95,18 @@ To advance cybersecurity by developing and sharing tools that enhance threat det
 ###  NGFW
 <div>
 <img src="https://img.shields.io/badge/-Check_Point-0096D6?&style=for-the-badge&logo=check-point&logoColor=white" />
-generate <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> for  checkpoint
+<img src="https://img.shields.io/badge/-Palo_Alto-0081C6?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" />
+
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA_Security+-E03A00?&style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/-(ISC)²-2A9D8F?&style=for-the-badge&logo=isc2&logoColor=white" />
+
 </div>
 
 ## Projects
+- Palo alto firewall configuration
+- Endpoint security upgrade
 - Detection Lab
-- SOC Automation Project
