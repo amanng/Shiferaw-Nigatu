@@ -68,7 +68,7 @@ To advance cybersecurity by developing and sharing tools that enhance threat det
 
 ###  Web Application Security
 <div>
-<img src="https://img.shields.io/badge/-Web_Application_Security-FF5722?&style=for-the-badge&logo=security&logoColor=white" />
+
     <img src="https://img.shields.io/badge/-Burp_Suite-6D4C6C?&style=for-the-badge&logo=burpsuite&logoColor=white" />
 <img src="https://img.shields.io/badge/-Acunetix-0099FF?&style=for-the-badge&logo=acunetix&logoColor=white" />
 
